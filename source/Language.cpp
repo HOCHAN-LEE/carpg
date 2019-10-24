@@ -157,7 +157,7 @@ bool Language::LoadFileInternal(Tokenizer& t, cstring path, Map* lmap)
 	{
 		Error("Failed to load language file '%s': %s", path, e.ToString());
 		++errors;
-		return false;
+		return false;5454
 	}
 
 	return true;
