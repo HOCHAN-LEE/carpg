@@ -1,6 +1,6 @@
 # CaRpg
 
-CaRpg is a 3d role playing game somewhat based on Gothic series. Can be played in singleplayer or co-op multiplayer mode. 
+CaRpg is a 3d role playing game somewhat based on Gothic series. Can be played in singleplayer or co-op multiplayer mode. CaRpg 는 고딕 스타일의 입체 롤 플레잉 게임 이다. 싱글플레이와 멀티플레이를 지원한다.  
 
 ![GitHub release](https://img.shields.io/github/release/Tomash667/carpg.svg) ![GitHub](https://img.shields.io/github/license/Tomash667/carpg.svg) ![GitHub issues by-label](https://img.shields.io/github/issues-raw/Tomash667/carpg/bug.svg?color=red&label=bugs)
 
